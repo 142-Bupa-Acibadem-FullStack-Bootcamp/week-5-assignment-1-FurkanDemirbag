@@ -7,7 +7,5 @@
 - c-dal 
 - d-conroller yapıları 
 - e-depency injection yapısına dahil edilmesi 
- 
-*Bu yapıları mimarimize uygun olacak şekilde implemente edilmelidir.*
 
-*Bu yapıda eğer kullanıcı token almadıysa hiç bir işlem yapmayacak şekilde olmalı*
+adımları tamamlanmıştır.
